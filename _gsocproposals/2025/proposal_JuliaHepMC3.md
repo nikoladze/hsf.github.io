@@ -52,6 +52,7 @@ TDB
 ## Mentors
 
 - **[Graeme Stewart](mailto:graeme.andrew.stewart@cern.ch)**
+- [Mateusz Fila](mailto:mateusz.jakub.fila@cern.ch)
 
 ## Links
 
